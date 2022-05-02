@@ -1,0 +1,41 @@
+nav {
+  background-color: #a5e6ad;
+  /* margin: 1em; */
+  padding: 1.5vh;
+}
+
+.shadow {
+  /* https://www.youtube.com/watch?v=zd4umm2yZZU */
+  /* -moz-box-shadow: inset 0 0 10px 0 #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000; */
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  padding: 2.5vh;
+  /* padding: 2ch; */
+  display: inline;
+}
+
+ul li a {
+  color: crimson;
+}
+
+/* .footer {
+  padding: 5vh;
+  background-color: #a5e6ad;
+}
+ */
+
+/* html {
+  background-color: #a5e6ad;
+}
+
+.mapa {
+  background-color: unset;
+} */
